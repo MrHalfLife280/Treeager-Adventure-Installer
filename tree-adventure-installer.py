@@ -152,8 +152,7 @@ def main():
         shake_terminal()
         black_screen()
 
-        webbrowser.open("https://www.youtube.com/watch?v=xMHJGd3wwZk")
-        webbrowser.open("https://www.twitch.tv/a_treeager")
+        webbrowser.open("https://www.youtube.com/watch?v=lN0NpQMB1lI") # Barajatr by dudeontheguitar ft. dododowson (good vibes)
 
         bring_terminal_front()
 
