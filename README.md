@@ -1,37 +1,3 @@
 # Treeager-Adventure-Installer
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--# (this is a prank lol
+force a song
